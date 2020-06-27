@@ -1,0 +1,9 @@
+D:\src\DirectoryCleanup\DirectoryCleanup\bin\Release\DirectoryCleanup.exe.config
+D:\src\DirectoryCleanup\DirectoryCleanup\bin\Release\DirectoryCleanup.exe
+D:\src\DirectoryCleanup\DirectoryCleanup\bin\Release\DirectoryCleanup.pdb
+D:\src\DirectoryCleanup\DirectoryCleanup\obj\Release\DirectoryCleanup.Form1.resources
+D:\src\DirectoryCleanup\DirectoryCleanup\obj\Release\DirectoryCleanup.Properties.Resources.resources
+D:\src\DirectoryCleanup\DirectoryCleanup\obj\Release\DirectoryCleanup.csproj.GenerateResource.cache
+D:\src\DirectoryCleanup\DirectoryCleanup\obj\Release\DirectoryCleanup.csproj.CoreCompileInputs.cache
+D:\src\DirectoryCleanup\DirectoryCleanup\obj\Release\DirectoryCleanup.exe
+D:\src\DirectoryCleanup\DirectoryCleanup\obj\Release\DirectoryCleanup.pdb
